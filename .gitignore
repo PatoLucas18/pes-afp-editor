@@ -1,0 +1,12 @@
+# Archivos del juego y copias
+*.bak
+*.bin
+*.apk
+*.opd
+# Salidas de exportación
+*_tex*.png
+*.log
+# Sistema / editores
+Thumbs.db
+.DS_Store
+.vscode/
